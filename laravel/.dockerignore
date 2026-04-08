@@ -1,0 +1,9 @@
+vendor
+node_modules
+.env
+.phpunit.result.cache
+storage/*.key
+.DS_Store
+.git
+.gitignore
+docker-compose.override.yml
